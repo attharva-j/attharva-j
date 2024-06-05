@@ -1,4 +1,5 @@
 <h2 align='center'>Hi there 👋</h2>
+<p align='center'>Welcome to my GitHub page. I am a data science professional 3 years of experience and a passion to solve problems in a data-driven manner.</p>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
