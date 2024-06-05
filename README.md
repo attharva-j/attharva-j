@@ -6,12 +6,12 @@
 <!--   <img class="me" src="http://gravatar.com/avatar/25b1fc64ba12614875c1e467d7e4c86e?s=512" alt="" /> -->
 </div>
 
-<div id="badges">
+<div id="badges" align='center'>
   <a href="https://www.linkedin.com/in/attharvaj3147/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://athex25.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=youtube&logoColor=white" alt="Medium Badge"/>
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
 </div>
 
