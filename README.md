@@ -1,5 +1,5 @@
 <h2 align='center'>Hi there 👋</h2>
-<p align='center'>Welcome to my GitHub page. I am a data science professional 3 years of experience and a passion to solve problems in a data-driven manner.</p>
+<p align='center'>Welcome to my GitHub page.</p>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -14,6 +14,15 @@
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :man_technologist: About Me :
+I am a [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Scientist;Data+Engineer;Data+Analyst;Machine+Learning+Engineer)](https://git.io/typing-svg <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the United States.
 
 <!--
 **attharva-j/attharva-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
