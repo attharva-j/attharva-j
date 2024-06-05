@@ -1,5 +1,4 @@
 <h2 align='center'>Hi there 👋</h2>
-<p align='center'>Welcome to my GitHub page.</p>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -22,7 +21,9 @@
 ---
 
 ### :man_technologist: About Me :
-I am a [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=200&size=16&pause=1000&color=FFFFFF&random=false&width=435&lines=Data+Scientist;Data+Engineer;Data+Analyst;Machine+Learning+Engineer)](https://git.io/typing-svg)
+<p align='center'>I'm Atharva.</p>
+---
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=200&size=16&pause=1000&color=FFFFFF&random=false&width=435&lines=Data+Scientist;Data+Engineer;Data+Analyst;Machine+Learning+Engineer)](https://git.io/typing-svg)
 
 <!--
 **attharva-j/attharva-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
