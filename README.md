@@ -6,19 +6,19 @@
 <!--   <img class="me" src="http://gravatar.com/avatar/25b1fc64ba12614875c1e467d7e4c86e?s=512" alt="" /> -->
 </div>
 
-<div class="social">
-  <a href="https://twitter.com/bphillips201"><i id="twitter" class="icon-twitter"></i></a>
-  <i id="github" class="icon-github"></i>
-  <i id="stack" class="icon-stackexchange"></i>
-  <i id="linkedin" class="icon-linkedin-sign"></i>
-  <i id="code" class="icon-code"></i>
-  <i id="plus" class="icon-google-plus-sign"></i>
-  <i id="mail" class="icon-envelope"></i> 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/attharvaj3147/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://athex25.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=youtube&logoColor=white" alt="Medium Badge"/>
+  </a>
 </div>
-<!--
-**attharva-j/attharva-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!--
+**attharva-j/attharva-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- -->
