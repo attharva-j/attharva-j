@@ -84,7 +84,7 @@ I’m a data enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 <!--
 **attharva-j/attharva-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<!-- Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on ...
   - developing advanced machine learning models.
@@ -105,4 +105,3 @@ I’m a data enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   - Astronomical events and space news
   - How we can use the first point to do stuff in the second. (haha 😃)
 - 😄 Pronouns: He/Him/His
-- -->
