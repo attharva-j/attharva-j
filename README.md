@@ -10,6 +10,10 @@
 <!--   <img class="me" src="http://gravatar.com/avatar/25b1fc64ba12614875c1e467d7e4c86e?s=512" alt="" /> -->
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 <div id="badges" align='center'>
   <a href="https://www.linkedin.com/in/attharvaj3147/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,10 +21,6 @@
   <a href="https://athex25.medium.com/">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
