@@ -9,21 +9,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-<!--   <img class="me" src="http://gravatar.com/avatar/25b1fc64ba12614875c1e467d7e4c86e?s=512" alt="" /> -->
-</div>
-
-<div id="badges" align='center'>
-  <a href="https://www.linkedin.com/in/attharvaj3147/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://athex25.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-  </a>
-</div>
-
-
 ---
 
 ### :man_technologist: About Me :
@@ -80,7 +65,20 @@ I’m a data enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=attharva-j&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<!--   <img class="me" src="http://gravatar.com/avatar/25b1fc64ba12614875c1e467d7e4c86e?s=512" alt="" /> -->
+</div>
 
+<div id="badges" align='center'>
+  <a href="https://www.linkedin.com/in/attharvaj3147/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://athex25.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+</div>
 
 
 <!--
@@ -89,11 +87,22 @@ I’m a data enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+  - developing advanced machine learning models.
+  - optimizing ETL pipelines and automating data workflows to streamline analytics and reporting for large datasets.
 - 🌱 I’m currently learning ...
+  - advanced concepts and implementation of generative AI, large language models (LLMs), GPTs to expand the horizon of my ML knowledge.
+  - how to apply transformers and natural language processing (NLP) techniques for text analysis and insight extraction from unstructured data.
+  - advanced techniques in deep learning and neural networks using TensorFlow and Keras to enhance my machine learning capabilities.
+  - how to integrate real-time data processing frameworks with cloud services like AWS and Azure for scalable data analytics solutions.
+  - best practices for deploying machine learning models in production environments, focusing on MLOps principles to streamline model lifecycle management.
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  - projects that focus on predictive analytics and forecasting models to provide actionable insights for various industries, such as retail or finance.
+  - employ my knowledge in generative AI, LLMs and GPT to help drive insightful business decisions, efficiently; yet accurately
+  - creating open-source libraries or tools in Python that simplify data analysis and machine learning tasks for the broader data science community.
+  - innovative data science projects that leverage machine learning to solve real-world business problems and drive impactful outcomes.
+- 💬 Let's discuss about ...
+  - New developments in data science and machine learning.
+  - Astronomical events and space news
+  - How we can use the first point to do stuff in the second. (haha 😃)
+- 😄 Pronouns: He/Him/His
 - -->
