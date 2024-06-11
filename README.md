@@ -13,7 +13,7 @@
 
 ### :man_technologist: About Me :
 I’m a data enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a strong background in Business Analytics and Computer Engineering. With a keen interest in turning complex datasets into actionable insights, I have hands-on experience in data analytics, visualization, machine learning, and statistical analysis.
-- :telescope: I’m a professional experienced in building machine learning and ETL pipelines with a major focus in forecasting, time series analysis and NLP.
+- :telescope: I’m a professional experienced in building machine learning & ETL pipelines with a major focus in forecasting, time series analysis & NLP.
 
 - :seedling: Exploring Technical Content Writing.
 
