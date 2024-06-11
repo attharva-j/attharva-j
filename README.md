@@ -1,9 +1,9 @@
 <h2 align='center'>Hi there 👋</h2>
 
-### :man_technologist: I am Atharva & I'm a 
+<h2>:man_technologist: I am Atharva & I'm a 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=16&pause=1000&color=FFFFFF&random=false&width=435&lines=Data+Scientist.;Data+Engineer.;Data+Analyst.;Machine+Learning+Engineer.)](https://git.io/typing-svg)
-
+</h2> 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
