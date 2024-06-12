@@ -87,19 +87,19 @@ I’m a data enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on ...
-  - developing advanced machine learning models.
-  - optimizing ETL pipelines and automating data workflows to streamline analytics and reporting for large datasets.
+  - Developing advanced machine learning models.
+  - Optimizing ETL pipelines and automating data workflows.
 - 🌱 I’m currently learning ...
-  - advanced concepts and implementation of generative AI, large language models (LLMs), GPTs to expand the horizon of my ML knowledge.
-  - how to apply transformers and natural language processing (NLP) techniques for text analysis and insight extraction from unstructured data.
-  - advanced techniques in deep learning and neural networks using TensorFlow and Keras to enhance my machine learning capabilities.
-  - how to integrate real-time data processing frameworks with cloud services like AWS and Azure for scalable data analytics solutions.
-  - best practices for deploying machine learning models in production environments, focusing on MLOps principles to streamline model lifecycle management.
+  - Generative AI, large language models (LLMs), and GPTs.
+  - Transformers and NLP techniques for text analysis.
+  - Deep learning and neural networks using TensorFlow and Keras.
+  - Integrating real-time data processing frameworks with cloud services like AWS, GCP and Azure.
+  - Best practices for deploying machine learning models with MLOps.
 - 👯 I’m looking to collaborate on ...
-  - projects that focus on predictive analytics and forecasting models to provide actionable insights for various industries, such as retail or finance.
-  - employ my knowledge in generative AI, LLMs and GPT to help drive insightful business decisions, efficiently; yet accurately
-  - creating open-source libraries or tools in Python that simplify data analysis and machine learning tasks for the broader data science community.
-  - innovative data science projects that leverage machine learning to solve real-world business problems and drive impactful outcomes.
+  - Projects focused on predictive analytics and forecasting models.
+  - Using generative AI, LLMs, and GPTs for business insights.
+  - Creating open-source Python tools for data analysis and machine learning.
+  - Innovative data science projects leveraging machine learning for real-world problems.
 - 💬 Let's discuss about ...
   - New developments in data science and machine learning.
   - Astronomical events and space news
