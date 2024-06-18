@@ -117,7 +117,8 @@ I’m a data enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
     - [60 Implementations of Deep Learning papers by labml.ai (60k stars)](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
     - Made with ML. Learn to design, develop, and deploy production-grade ML applications by Goku Mohandas (36k stars)
       - [GitHub](https://github.com/GokuMohandas/Made-With-ML)
-      - [Website](https://madewithml.com/) 
+      - [Website](https://madewithml.com/)
+      - Reach Goku on his email at - goku@madewithml.com 
     - [Awesome Machine Learning. A curated list of awesome ML resources by Joseph Misiti (64.2k stars)](https://github.com/josephmisiti/awesome-machine-learning)
     - [Awesome Data Science. A curated list of data science resources by Academic (24.1k stars)](https://github.com/academic/awesome-datascience)
     - [Awesome Artificial Intelligence. A curated list of AI resources by Owain Lewis (10k stars)](https://github.com/owainlewis/awesome-artificial-intelligence)
