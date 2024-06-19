@@ -65,7 +65,7 @@ I’m a data enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=attharva-j&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=attharva-j&color=fc5a03&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=attharva-j&color=fc5a03&style=for-the-badge&label=Profile+Views+(Since+June+18th,+2024))
 ---
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
