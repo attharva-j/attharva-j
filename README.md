@@ -110,6 +110,10 @@ I’m a data enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ---
 ## Tech Diary 📖
 ### 🔎 Something new I read / learnt about:
+- July 15th, 2024
+  - An interesting [time series forecasting technique](https://github.com/ikeyang/vitime) to read:
+  - This paper introduces ViTime, a new model that predicts things like weather, stock prices, and health trends by turning numerical data into images, leveraging our brains' superior visual processing abilities. It uses a clever method called Real Time Series (RealTS) to generate training data focused on "trends" and "periodicity." This approach allows ViTime to make super accurate predictions across various domains with minimal specialized training. In short, ViTime is a breakthrough in time series forecasting, making it easier and more precise by using visual data.
+  - The original paper can be found [here](https://arxiv.org/pdf/2407.07311).
 - June 18th, 2024
   - 5 Best Github Repos to help you become a better ML / AI engineer:
     - [Applied ML. All About Machine Learning in Production by Eugene Yan (26k stars)](https://github.com/eugeneyan/applied-ml)
