@@ -110,6 +110,16 @@ I’m a data enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ---
 ## Tech Diary 📖
 ### 🔎 Something new I read / learnt about:
+- July 16th, 2024
+  - Source: Meri Nova's LinkedIn [Post](https://www.linkedin.com/posts/meri-bozulanova_i-dont-want-to-sound-rude-but-i-freaking-activity-7219077180301930496-YigH)
+  - They have extensive resources outside of Linkedin, so make sure to check them out! 🚀
+    - [Aurimas Griciūnas](https://www.linkedin.com/in/aurimas-griciunas/): Aurimas creates the most insightful and clear diagrams for ML system design and MLops. 
+    - [Chip Huyen](https://www.linkedin.com/in/chiphuyen/): At this point, Chip doesn't need an introduction, but do check out her upcoming book on AI Engineering!
+    - [Aishwarya Naresh Reganti](https://www.linkedin.com/in/areganti/): Creator of the most comprehensive Github handbook for LLMs and GenAI. 
+    - [Gina Acosta Gutiérrez](https://www.linkedin.com/in/ginacostag/): Gina runs one of the best newsletters that covers the latest news in AI and Data. 
+    - [Krish Naik](https://www.linkedin.com/in/naikkrish/): My favorite guy for End-to-End Machine Learning projects, who recently released the most affordable ML BootCamp on Udemy!
+  - Krish Naik is one of the best people I have seen so far for learning ML and data science concepts (from scratch) if required.
+
 - July 15th, 2024
   - An interesting [time series forecasting technique](https://github.com/ikeyang/vitime) to read:
   - This paper introduces ViTime, a new model that predicts things like weather, stock prices, and health trends by turning numerical data into images, leveraging our brains' superior visual processing abilities. It uses a clever method called Real Time Series (RealTS) to generate training data focused on "trends" and "periodicity." This approach allows ViTime to make super accurate predictions across various domains with minimal specialized training. In short, ViTime is a breakthrough in time series forecasting, making it easier and more precise by using visual data.
