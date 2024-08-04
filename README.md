@@ -110,6 +110,9 @@ I’m a data enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ---
 ## Tech Diary 📖
 ### 🔎 Something new I read / learnt about:
+- August 3rd, 2024
+  -  Source: TDS Editors [post](https://towardsdatascience.com/sql-optimization-data-science-portfolios-and-other-july-must-reads-09672d9a60d9) - Towards Data Science
+  -  This article summarizes the most important and popular TDS articles from the last month. I found it useful compared to all the previous ones as their is much needed diverse set of information in this one.
 - July 16th, 2024
   - Source: Meri Nova's LinkedIn [Post](https://www.linkedin.com/posts/meri-bozulanova_i-dont-want-to-sound-rude-but-i-freaking-activity-7219077180301930496-YigH)
   - They have extensive resources outside of Linkedin, so make sure to check them out! 🚀
