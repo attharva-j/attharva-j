@@ -110,6 +110,10 @@ I’m a data enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ---
 ## Tech Diary 📖
 ### 🔎 Something new I read / learnt about:
+- August 26th, 2024
+  - Revisited the famous research paper which introduces the use of RNNs and attention mechanisms for Generative AI use cases.
+  -  Feel free to read my [post](https://www.linkedin.com/posts/attharvaj3147_attention-is-all-you-need-activity-7233868796573184000-c_eS) about insights I derived from this paper.
+  -  Here is the [link](https://arxiv.org/abs/1706.03762) to the original research paper.
 - August 3rd, 2024
   -  Source: TDS Editors [post](https://towardsdatascience.com/sql-optimization-data-science-portfolios-and-other-july-must-reads-09672d9a60d9) - Towards Data Science
   -  This article summarizes the most important and popular TDS articles from the last month. I found it useful compared to all the previous ones as their is much needed diverse set of information in this one.
