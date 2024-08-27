@@ -2,7 +2,7 @@
 
 <h2 align='center'>:man_technologist: I am Atharva & I'm a 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=16&pause=500&color=FFFFFF&random=false&width=435&lines=Data+Scientist.;Data+Engineer.;Data+Analyst.;Machine+Learning+Engineer.)](https://git.io/typing-svg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=16&pause=300&color=FFFFFF&random=false&width=435&lines=Data+Scientist.;Data+Engineer.;Data+Analyst.;Machine+Learning+Engineer.)](https://git.io/typing-svg)
 </h2> 
 
 <div align="center">
