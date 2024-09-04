@@ -110,6 +110,9 @@ I’m a data enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ---
 ## Tech Diary 📖
 ### 🔎 Something new I read / learnt about:
+- September 3rd, 2024
+  - A reference place for resources to prepare for data science interviews (updated as required):
+  - Sept 3 2024: A GitHub [repository](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers/) for all important questions and their answers realted to data science - Stats, Classical ML, DL, etc.
 - August 26th, 2024
   - Revisited the famous research paper which introduces the use of RNNs and attention mechanisms for Generative AI use cases.
   -  Feel free to read my [post](https://www.linkedin.com/posts/attharvaj3147_attention-is-all-you-need-activity-7233868796573184000-c_eS) about insights I derived from this paper.
